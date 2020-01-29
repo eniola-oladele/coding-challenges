@@ -29,7 +29,76 @@ There are pertinent and fundamental questions that they seek to know, which are:
 * Why are you interested in the division(s) you applied?
 * What makes you stand-out amongst other candidates.
 
-Hints from Cracking the coding interview by Gayle McDowell on how to hack behavioural questions.
+Hints from Cracking the coding interview by Gayle McDowell on how to hack behavioural questions. You can download the full text [here](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
+
+According to the author, she says, _"Behavioral questions are asked to get to know you personally, to understand your resume more deeply, and just to ease you into an interview"_ 
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>Common Questions</th>
+    <th>Project 1</th>
+    <th>Project 2</th>
+  </tr>
+  <tr>
+    <td>Challenges </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Mistakes/Failures</td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Leadership</td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Conflicts Resolution</td>
+    <td> </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>What You'll do differently</td>
+    <td> </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Greatest Achievement</td>
+    <td> </td>
+    <td></td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 
 
 These are some of the practice questions gotten from different sources to make preparation easy.
