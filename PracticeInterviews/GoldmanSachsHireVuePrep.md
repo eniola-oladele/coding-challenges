@@ -140,4 +140,20 @@ This could be a mix of both technical skills as well as soft skills. You want to
 
 * Talk with the time when you took a stand to change something. And your teacher or managers were not convinced. What have you done? What was the output?
 
+### LEADERSHIP & INITIATIVE
+
+* Talk me through a time you were working in a team and you took the initiative to make a change.
+
+* Tell talk me through a time where you had to solve a problem in an innovative way.  
+
+* Talk me through a time that you demonstrated leadership? 
+ 
+* What's the hardest problem you ever encountered? How did you overcome it?
+
+* Describe a situation that required you to overcome substantial obstacles or adversity. What approach did you take to overcome though? What motivated you to persist? 
+
+* Your teacher assigns you to a group to complete an important class project. The classmates in the assigned group all know each other really well, but you do not know any of them. How can you ensure that you work effectively with the group?  
+
+* You assigned a group project and all the group members know each other very well except you. How you will manage the project? What are the factors you will consider?
+
 
