@@ -286,3 +286,5 @@ development there as a way to learn it more deeply. I'm also active as a moderat
 around Android development.
 6. Wrap Up: I'm looking now for something new, and your company caught my eye. I've always loved the
 connection with the user, and I really want to get back to a smaller environment too.
+
+I love this cheatsheet presented by Bloomberg on [how to ace the interviews at GS](https://www.bloomberg.com/graphics/2015-cheatsheets/goldman-sachs.html)
