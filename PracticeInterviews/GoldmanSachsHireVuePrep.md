@@ -122,7 +122,7 @@ This could be a mix of both technical skills as well as soft skills. You want to
 * Why did you choose your major?
 
 
-CONFLICT RESOLUTION & TIME MANAGEMENT:
+### CONFLICT RESOLUTION & TIME MANAGEMENT:
 
 * A team member isn't contributing. You confront them. They still don't contribute. What next?
 
