@@ -165,3 +165,9 @@ This could be a mix of both technical skills as well as soft skills. You want to
 * You have been assigned as the lead on a project involving employees from multiple teams. This is a unique opportunity and you want to ensure it is a success. However, the deadline is very tight given the amount of work involved. Your responsibilities include coordinating efforts across the various team members, as well as working with the client to ensure you meet their needs. What steps would you take to ensure the success of the project? 
 
 * You have just submitted a critical monthly report on behalf of the team to your manager.  You realize there is a mistake on a part of the report that is rarely reviewed. What would you do? 
+
+### CONFIDENTIALITY & DISCREETNESS
+
+* Your professor accidentally sends you confidential information intended for another student. What do you do?
+
+* You are working on a secret project. Your previous manager asks about it. He says he wants information on the project to help with an important decision. What do you do?
