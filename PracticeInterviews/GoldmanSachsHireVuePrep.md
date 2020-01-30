@@ -181,19 +181,20 @@ This could be a mix of both technical skills as well as soft skills. You want to
 
 * You are working on a secret project. Your previous manager asks about it. He says he wants information on the project to help with an important decision. What do you do?
 
-### Tips for Responding to Behavioral Questions
+### Tips for Responding to Behavioral Questions from CTCI
 
 * Be Specific, Not Arrogant
-- Specificity means giving just the flags and letting the interviewer derive an interpretation.
+Specificity means giving just the flags and letting the interviewer derive an interpretation.
 
 * Limit Details
-- Stay light on details and just state the key points, avoid blabbering on about a problem such that the interviewer finds it hard to follow.
+Stay light on details and just state the key points, avoid blabbering on about a problem such that the interviewer finds it hard to follow.
 
 * Focus on yourself, not your team
-- Don't leave your interviewer clueless about your actual impact on the project.
+Don't leave your interviewer clueless about your actual impact on the project.
 
 * Give Structured Answers
-- Nugget First:
+
+* Nugget First:
 For example:
 Interviewer: "Tell me about a time you had to persuade a group of people to make a big change:'
 
@@ -209,7 +210,7 @@ S.A.R. (Situation, Action, Result)
 The S.A.R. approach means that you start off outlining the situation, then explaining the actions you took,
 and lastly, describing the result.
 
-Example: ''Tell me about a challenging interaction with a teammate:'
+__Example: ''Tell me about a challenging interaction with a teammate:'__
 
 Situation: On my operating systems project, I was assigned to work with three other people. While two
 were great, the third team member didn't contribute much. He stayed quiet during meetings, rarely
@@ -237,34 +238,37 @@ Result: With his confidence raised, he now offered to take on a bunch of the sma
 then eventually some of the biggest parts. He finished all his work on time, and he contributed more in
 discussions. We were happy to work with him on a future project.
 
-Think About What It Says
-Re-read the story above, What personality attributes has the candidate demonstrated?
+What personality attributes has the candidate demonstrated?
 
-Initiative/Leadership: The candidate tried to resolve the situation by addressing it head-on.
+* Initiative/Leadership: The candidate tried to resolve the situation by addressing it head-on.
 
-Empathy: The candidate tried to understand what was happening to the person. The candidate also
+* Empathy: The candidate tried to understand what was happening to the person. The candidate also
 showed empathy in knowing what would resolve the teammate's insecurity.
 
-Compassion: Although the teammate was harming the team, the candidate wasn't angry at the teammate.
+* Compassion: Although the teammate was harming the team, the candidate wasn't angry at the teammate.
 His empathy led him to compassion.
 
-Humility: The candidate was able to admit to his own flaws (not only to the teammate, but also to the
+* Humility: The candidate was able to admit to his own flaws (not only to the teammate, but also to the
 interviewer).
 
-• Teamwork/Helpfulness: The candidate worked with the teammate to break down the project into
+* Teamwork/Helpfulness: The candidate worked with the teammate to break down the project into
 manageable chunks.
 
 You should think about your stories from this perspective. Analyze the actions you took and how you
 reacted. What personality attributes does your reaction demonstrate?
 
-So, tell me about yourself. ..
+So, tell me about yourself...
+
 Many interviewers kick off the session by asking you to tell them a bit about yourself, or asking you to walk
 through your resume. This is essentially a "pitch''. It's your interviewer's first impression of you, so you want
 to be sure to nail this.
+
 Structure
+
 A typical structure that works well for many people is essentially chronological, with the opening sentence
 describing their current job and the conclusion discussing their relevant and interesting hobbies outside
 of work (if any).
+
 1. Current Role [Headline Only]: "I'm a software engineer at Microworks, where I've been leading the
 Android team for the last five years:'
 2. College: My background is in computer science. I did my undergrad at Berkeley and spent a few
