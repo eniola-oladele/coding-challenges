@@ -92,7 +92,7 @@ This question is aimed at helping you have the opportuity to work the recruiter 
 
 * Why do you want to work for Goldman Sachs?
 
-You are encouraged to visit the [GS careers webpage](https://www.goldmansachs.com/careers/blog/index.html) or [home](https://www.goldmansachs.com/index.html) to find enough answers to defend why you want to work at GS.
+You are encouraged to visit the [GS careers webpage](https://www.goldmansachs.com/careers/blog/index.html) or [GS home page ](https://www.goldmansachs.com/index.html) to find enough answers to defend why you want to work at GS.
 
 
 * Why do you want to work for division X?
