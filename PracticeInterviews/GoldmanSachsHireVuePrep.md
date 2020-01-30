@@ -39,7 +39,7 @@ According to the author, she says, _"Behavioral questions are asked to get to kn
 </head>
 <body>
 
-<h2>Preparation Rubrics</h2>
+<h3>Preparation Rubrics</h3>
 
 <table>
   <tr>
@@ -84,10 +84,17 @@ According to the author, she says, _"Behavioral questions are asked to get to kn
 
 These are some of the practice questions gotten from different sources to make preparation easy.
 
-INTRODUCTION
+### INTRODUCTION
 
 * Walk me through your resume.
+
+This question is aimed at helping you have the opportuity to work the recruiter through your resume. You should seek to address key areas in your resume where your best is most highlighted instead of bothering on irrelevances.
+
 * Why do you want to work for Goldman Sachs?
+
+You are encouraged to visit the [GS careers webpage](https://www.goldmansachs.com/careers/blog/index.html) or [home](https://www.goldmansachs.com/index.html) to find enough answers to defend why you want to work at GS.
+
+
 * Why do you want to work for division X?
 * What is your biggest achievement so far?
 * What would make you a good fit with Goldman Sachs?
