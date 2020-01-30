@@ -111,6 +111,12 @@ They both explain you should pick a quality the company seeks in an ideal candid
 
 
 * What would make you a good fit with Goldman Sachs?
+ You have to highlight that your strengths and distinct characteristics that makes you a good fit for the job. Why should the recruiter choose you amongst many other candidates?
+
 * What's your core expertise? How have you applied that to a project?
+
+This could be a mix of both technical skills as well as soft skills. You want to always make your personality well revealed.
+
 * What's your greatest strength?
+
 * Why did you choose your major?
