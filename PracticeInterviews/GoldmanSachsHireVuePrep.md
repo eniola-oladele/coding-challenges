@@ -33,6 +33,7 @@ Hints from Cracking the coding interview by Gayle McDowell on how to hack behavi
 
 According to the author, she says, _"Behavioral questions are asked to get to know you personally, to understand your resume more deeply, and just to ease you into an interview"_ 
 
+
 <html>
 <head>
 
@@ -81,6 +82,14 @@ According to the author, she says, _"Behavioral questions are asked to get to kn
 
 </body>
 </html>
+
+Along the top, as columns, you should list all the major aspects of your resume, including each project, job,
+or activity. Along the side, as rows, you should list the common behavioral questions.
+Study this grid before your interview.
+
+Reducing each story to just a couple of keywords may make the grid
+easier to study and recall. You can also more easily have this grid in front of you during an interview without
+it being a distraction.
 
 These are some of the practice questions gotten from different sources to make preparation easy.
 
@@ -171,3 +180,105 @@ This could be a mix of both technical skills as well as soft skills. You want to
 * Your professor accidentally sends you confidential information intended for another student. What do you do?
 
 * You are working on a secret project. Your previous manager asks about it. He says he wants information on the project to help with an important decision. What do you do?
+
+### Tips for Responding to Behavioral Questions
+
+* Be Specific, Not Arrogant
+- Specificity means giving just the flags and letting the interviewer derive an interpretation.
+
+* Limit Details
+- Stay light on details and just state the key points, avoid blabbering on about a problem such that the interviewer finds it hard to follow.
+
+* Focus on yourself, not your team
+- Don't leave your interviewer clueless about your actual impact on the project.
+
+* Give Structured Answers
+- Nugget First:
+For example:
+Interviewer: "Tell me about a time you had to persuade a group of people to make a big change:'
+
+Candidate:"Sure, let me tell you about the time when I convinced my school to let undergraduates teach
+their own courses. Initially, my school had a rule where .. :'
+
+This technique grabs your interviewer's attention and makes it very clear what your story will be about. It
+also helps you be more focused in your communication, since you've made it very clear to yourself what
+the gist of your response is.
+
+S.A.R. (Situation, Action, Result)
+
+The S.A.R. approach means that you start off outlining the situation, then explaining the actions you took,
+and lastly, describing the result.
+
+Example: ''Tell me about a challenging interaction with a teammate:'
+
+Situation: On my operating systems project, I was assigned to work with three other people. While two
+were great, the third team member didn't contribute much. He stayed quiet during meetings, rarely
+chipped in during email discussions, and struggled to complete his components. This was an issue not
+only because it shifted more work onto us, but also because we didn't know if we could count on him.
+
+Action: I didn't want to write him off completely yet, so I tried to resolve the situation. I did three things.
+
+First, I wanted to understand why he was acting like this. Was it laziness? Was he busy with something
+else? I struck up a conversation with him and then asked him open-ended questions about how he felt it
+was going. Interestingly, basically out of nowhere, he said that he wanted to take on the writeup, which
+is one of the most time intensive parts. This showed me that it wasn't laziness; it was that he didn't feel
+like he was good enough to write code.
+
+Second, now that I understand the cause, I tried to make it clear that he shouldn't fear messing up. I told
+him about some of the bigger mistakes that I made and admitted that I wasn't clear about a lot of parts
+of the project either.
+
+Third and finally, I asked him to help me with breaking out some of the components of the project. We
+sat down together and designed a thorough spec for one of the big component, in much more detail
+than we had before. Once he could see all the pieces, it helped show him that the project wasn't as scary
+as he'd assumed.
+
+Result: With his confidence raised, he now offered to take on a bunch of the smaller coding work, and
+then eventually some of the biggest parts. He finished all his work on time, and he contributed more in
+discussions. We were happy to work with him on a future project.
+
+Think About What It Says
+Re-read the story above, What personality attributes has the candidate demonstrated?
+
+Initiative/Leadership: The candidate tried to resolve the situation by addressing it head-on.
+
+Empathy: The candidate tried to understand what was happening to the person. The candidate also
+showed empathy in knowing what would resolve the teammate's insecurity.
+
+Compassion: Although the teammate was harming the team, the candidate wasn't angry at the teammate.
+His empathy led him to compassion.
+
+Humility: The candidate was able to admit to his own flaws (not only to the teammate, but also to the
+interviewer).
+
+• Teamwork/Helpfulness: The candidate worked with the teammate to break down the project into
+manageable chunks.
+
+You should think about your stories from this perspective. Analyze the actions you took and how you
+reacted. What personality attributes does your reaction demonstrate?
+
+So, tell me about yourself. ..
+Many interviewers kick off the session by asking you to tell them a bit about yourself, or asking you to walk
+through your resume. This is essentially a "pitch''. It's your interviewer's first impression of you, so you want
+to be sure to nail this.
+Structure
+A typical structure that works well for many people is essentially chronological, with the opening sentence
+describing their current job and the conclusion discussing their relevant and interesting hobbies outside
+of work (if any).
+1. Current Role [Headline Only]: "I'm a software engineer at Microworks, where I've been leading the
+Android team for the last five years:'
+2. College: My background is in computer science. I did my undergrad at Berkeley and spent a few
+summers working at startups, including one where I attempted to launch my own business.
+3. Post College & Onwards: After college, I wanted to get some exposure to larger corporations so I joined
+Amazon as a developer. It was a great experience. I learned a ton about large system design and I got to
+really drive the launch of a key part of AWS. That actually showed me that I really wanted to be in a more
+entrepreneurial environment.
+4. Current Role [Details]: One of my old managers from Amazon recruited me out to join her startup,
+which was what brought me to Microworks. Here, I did the initial system architecture, which has scaled
+pretty well with our rapid growth. I then took an opportunity to lead the Android team. I do manage a
+team of three, but my role is primarily with technical leadership: architecture, coding, etc.
+5. Outside of Work: Outside of work, I've been participating in some hackathons-mostly doing iOS
+development there as a way to learn it more deeply. I'm also active as a moderator on online forums
+around Android development.
+6. Wrap Up: I'm looking now for something new, and your company caught my eye. I've always loved the
+connection with the user, and I really want to get back to a smaller environment too.
