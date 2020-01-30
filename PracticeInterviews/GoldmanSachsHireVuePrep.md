@@ -156,4 +156,12 @@ This could be a mix of both technical skills as well as soft skills. You want to
 
 * You assigned a group project and all the group members know each other very well except you. How you will manage the project? What are the factors you will consider?
 
+### TEAM WORK
 
+* You are very much interested in one of the coursework. And you are also due with one of your project. One of classmate asked you could he also contribute to your project. What would you do? What would you say to your classmate?
+
+* Describe a time you were part of a group or team that had been working well together and a new member just joined. What steps did you take to help introduce this person and make them feel included?  What challenges did you encounter? What did you learn?
+
+* You have been assigned as the lead on a project involving employees from multiple teams. This is a unique opportunity and you want to ensure it is a success. However, the deadline is very tight given the amount of work involved. Your responsibilities include coordinating efforts across the various team members, as well as working with the client to ensure you meet their needs. What steps would you take to ensure the success of the project? 
+
+* You have just submitted a critical monthly report on behalf of the team to your manager.  You realize there is a mistake on a part of the report that is rarely reviewed. What would you do? 
