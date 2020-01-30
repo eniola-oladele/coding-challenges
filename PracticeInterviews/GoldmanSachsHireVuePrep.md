@@ -120,3 +120,24 @@ This could be a mix of both technical skills as well as soft skills. You want to
 * What's your greatest strength?
 
 * Why did you choose your major?
+
+
+CONFLICT RESOLUTION & TIME MANAGEMENT:
+
+* A team member isn't contributing. You confront them. They still don't contribute. What next?
+
+* How do you handle a client who goes against the company policy?
+
+* Talk me through a time you had to resolve a conflict with someone senior to you.
+
+* Give me an example of a time when you worked in a team with conflict. How did you deal with this? 
+
+* Talk me through a time you were working in a team and someone wasn't pulling their weight.
+
+* Tell me about a time when you have had to turn down a project or opportunity because you had a conflict or competing deadline. What were the competing priorities that you were facing?  How and when did you decline the opportunity or project? What was the result of turning it down?
+
+* Please describe a time when a teacher or manager questioned a decision you made and you had to explain the reasoning behind that decision. Please describe your thought process and the outcome. Looking back, would you have done anything differently?
+
+* Talk with the time when you took a stand to change something. And your teacher or managers were not convinced. What have you done? What was the output?
+
+
