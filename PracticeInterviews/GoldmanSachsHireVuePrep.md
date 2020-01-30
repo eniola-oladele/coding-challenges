@@ -33,30 +33,13 @@ Hints from Cracking the coding interview by Gayle McDowell on how to hack behavi
 
 According to the author, she says, _"Behavioral questions are asked to get to know you personally, to understand your resume more deeply, and just to ease you into an interview"_ 
 
-<!DOCTYPE html>
 <html>
 <head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
 
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<h2>Preparation Rubrics</h2>
 
 <table>
   <tr>
@@ -98,8 +81,6 @@ tr:nth-child(even) {
 
 </body>
 </html>
-
-
 
 These are some of the practice questions gotten from different sources to make preparation easy.
 
