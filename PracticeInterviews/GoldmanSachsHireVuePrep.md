@@ -183,14 +183,11 @@ This could be a mix of both technical skills as well as soft skills. You want to
 
 ### Tips for Responding to Behavioral Questions from CTCI
 
-* Be Specific, Not Arrogant
-Specificity means giving just the flags and letting the interviewer derive an interpretation.
+* Be Specific, Not Arrogant: Specificity means giving just the flags and letting the interviewer derive an interpretation.
 
-* Limit Details
-Stay light on details and just state the key points, avoid blabbering on about a problem such that the interviewer finds it hard to follow.
+* Limit Details: Stay light on details and just state the key points, avoid blabbering on about a problem such that the interviewer finds it hard to follow.
 
-* Focus on yourself, not your team
-Don't leave your interviewer clueless about your actual impact on the project.
+* Focus on yourself, not your team: Don't leave your interviewer clueless about your actual impact on the project.
 
 * Give Structured Answers
 
