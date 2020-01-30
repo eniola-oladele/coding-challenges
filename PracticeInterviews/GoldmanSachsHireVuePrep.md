@@ -9,7 +9,7 @@ Please be prepared to answer questions related to the specific division(s) to wh
 [Interview Mindset](https://www.mequilibrium.com/gsrecruiting/)
 
 
-About Pre-recorded Video Interviewing
+__About Pre-recorded Video Interviewing__
 
 The pre-recorded video interview simply includes a series of pre-set questions asked by Goldman Sachs recruiters. You will record your answers to the pre-set questions using your computer and webcam, or your mobile device. After you finish, your pre-recorded video interview submission will be reviewed by trained members of GS team (and not an algorithm), who will determine next steps regarding your application.
 
