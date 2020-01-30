@@ -96,7 +96,20 @@ You are encouraged to visit the [GS careers webpage](https://www.goldmansachs.co
 
 
 * Why do you want to work for division X?
+
+You should review the divisions you decided to choose in your initial application, you can find it under your application portal. You can read more about the [different divisions at GS and their roles](https://www.goldmansachs.com/careers/divisions/index.html).
+
 * What is your biggest achievement so far?
+
+This kinds of questions are to have been prepared for before you ever do a video interview, because if you are caught off guard, you would find yourself rambling and struggling through an answer, this is because so many achievements will flood your mind and you would be contemplating which is the biggest and most striking.
+
+To avoid such kinds of debate going on in your head and hence an inability to properly disect this question, I suggest you take time to plan an answer or meditate on this question, and know what to say.
+
+Click this videos to check what experts and psychologist have to say about answering this question [Don Georgevich](https://www.youtube.com/watch?v=t4Ltzt7K7RE), [Professor Heather Austin](https://www.youtube.com/watch?v=4fGI96GY3H0) 
+
+They both explain you should pick a quality the company seeks in an ideal candidate and then pick an accomplishment that you can share that your skills, talents, and expertise are the perfect fit. You should also pick an accomplishment that you're proud of, so as to get lit up and enlivened.
+
+
 * What would make you a good fit with Goldman Sachs?
 * What's your core expertise? How have you applied that to a project?
 * What's your greatest strength?
